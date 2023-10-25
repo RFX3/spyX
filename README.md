@@ -8,7 +8,9 @@ spyX is an full recon tool that helps Bug hunters get full recon about the targe
 
 
 Download Steps:
-
+# First install the tool libraries 
 1- pip install requests beautifulsoup4 builtwith reportlab lxml dnspython python-whois pyfiglet
-
-2- git clone 
+# Second install the tool 
+2- git clone https://github.com/RFX3/spyX.git
+# Run the tool
+3- python spyx.py
