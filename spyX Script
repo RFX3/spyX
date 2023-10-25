@@ -64,9 +64,9 @@ def save_results_to_pdf(output_dir, target_domain, subdomains, parameters, names
     story.append(Spacer(1, 12))
 
     # Insert the image on page 1
-    image_path = "C:\\Downloads\\spyX.png"  # Replace with the actual path to the image
-    image = Image(image_path, width=550, height=550)
-    story.append(image)
+    #image_path = "C:\\Downloads\\spyX.png"  # Replace with the actual path to the image
+    #image = Image(image_path, width=550, height=550)
+    #story.append(image)
 
     # Target Domain
     target_domain_style = ParagraphStyle(name="TargetDomain", parent=styles["Normal"])
