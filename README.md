@@ -14,4 +14,5 @@ Download Steps:
 1- git clone https://github.com/RFX3/spyX.git
 # Run the tool
 1- cd spyX
+
 2- python spyX.py
