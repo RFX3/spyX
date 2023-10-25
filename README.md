@@ -11,6 +11,7 @@ Download Steps:
 # First install the tool libraries 
 1- pip install requests beautifulsoup4 builtwith reportlab lxml dnspython python-whois pyfiglet
 # Second install the tool 
-2- git clone https://github.com/RFX3/spyX.git
+1- git clone https://github.com/RFX3/spyX.git
 # Run the tool
-3- python spyx.py
+1- cd spyX
+2- python spyX.py
