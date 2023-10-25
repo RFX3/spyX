@@ -16,3 +16,5 @@ Download Steps:
 1- cd spyX
 
 2- python spyX.py
+
+![image](https://github.com/RFX3/spyX/assets/107072345/4b86768d-560e-466f-a591-ace860ee8ccb)
